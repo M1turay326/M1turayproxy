@@ -1,2 +1,2 @@
 # M1turayproxy
-Proxyだよ
+Proxyだよ（多分・・・）
